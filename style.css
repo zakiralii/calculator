@@ -1,0 +1,20 @@
+.inputs{
+    border: 2px solid red;
+    border-radius: 5px;
+    width: 200px;
+    box-shadow: 0px 5px 20px rgba(140, 184, 70, 0.5);
+}
+.inputs button{
+    width: 40px;
+    height: 40px;
+    margin: 3px;    
+    box-shadow: 0px 5px 20px rgba(52, 50, 64, 0.5);
+}
+.inputs button:hover{
+    background-color: red;
+    border-radius: 5px;
+}
+#display{
+    min-width: 93%;
+    border-radius: 2px;
+}
